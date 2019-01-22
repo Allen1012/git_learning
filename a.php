@@ -21,5 +21,5 @@ for($i = 0 ; $i < 10 ; $i++){
 	echo "nihao a ".$i."<br>";
 }
 
-echo "haha just a test for git";
+echo "haha just a test for git !!!";
 
