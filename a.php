@@ -25,3 +25,5 @@ echo "haha just a test for git !!!";
 
 
 echo "lai a kuai huo a ";
+
+echo "bu lai jiu bu lai";
